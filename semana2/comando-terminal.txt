@@ -1,9 +1,0 @@
-cd
-ls
-mkdir
-touch
-nano
-git add .
-git commit -m "Actividad semana 2"
-git push
-
