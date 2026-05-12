@@ -1,0 +1,29 @@
+Reflexion
+
+Las interfaces gráficas tienen un costo 
+silencioso: te abstraen de lo que realmente 
+está pasando. La terminal rompe esa 
+abstracción. Te obliga a nombrar lo que 
+quieres hacer, a ser preciso, a entender el 
+sistema antes de actuar sobre él. Y en esa 
+exigencia hay algo formativo: aprendes que 
+el computador no adivina, obedece. Para que 
+obedezca bien, tú debes pensar bien. Un 
+desarrollador que evita la terminal es como 
+un escritor que depende del corrector 
+automático: puede producir resultados, pero 
+no entiende del todo lo que hace. Cuando 
+las herramientas fallen, quedará 
+desorientado. Saber usar la terminal es una 
+declaración de autonomía. Es elegir 
+entender el entorno en lugar de esperar que 
+alguien más lo haga legible para ti. En un 
+mundo donde el software vive en servidores 
+sin pantalla y los errores se diagnostican 
+en logs crudos, esa autonomía no es un lujo 
+— es una condición para ejercer el oficio 
+con seriedad. La terminal incomoda al 
+principio porque te devuelve la 
+responsabilidad. Y esa incomodidad, bien 
+tolerada, es donde crece un buen 
+desarrollador.
