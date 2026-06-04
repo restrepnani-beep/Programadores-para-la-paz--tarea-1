@@ -1,0 +1,6 @@
+Repositorio
+Es el "contenedor" del proyecto. Guarda todos los archivos y el historial completo de cambios. Puede ser local (en tu computadora) o remoto (en plataformas como GitHub o GitLab).
+Commit
+Es una instantánea o "foto" de los cambios en un momento específico. Cada commit queda registrado en el historial con un mensaje descriptivo, permitiéndote volver a ese punto en cualquier momento.
+Push
+Es el comando que envía tus commits locales al repositorio remoto. Básicamente, "empuja" tus cambios guardados hacia el servidor para que otros puedan verlos o para tenerlos respaldados.
