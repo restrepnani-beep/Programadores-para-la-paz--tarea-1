@@ -12,8 +12,7 @@ app.post('/registro', (req, res) => {
     estado: "Datos recibidos",
     nombre: nombre,
     mensaje: mensaje
-  });
-  app.post('/incidencia', (req, res) => {
+  });app.post('/incidencia', (req, res) => {
 
   const tipo = req.body.tipo;
   const descripcion = req.body.descripcion;
@@ -23,6 +22,10 @@ app.post('/registro', (req, res) => {
     tipo: tipo,
     descripcion: descripcion
   });
+
+});
+
+});
 
 app.listen(3000, () => {
   console.log('Servidor ejecutándose en puerto 3000');
