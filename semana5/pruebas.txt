@@ -1,0 +1,3 @@
+en la ruta http://localhost:3000 sale servidor activo
+en la ruta http://localhost:3000/saludo sale saludo comunidad
+en la ruta http://localhost:3000/mensaje/juan sale el saludo a juan
