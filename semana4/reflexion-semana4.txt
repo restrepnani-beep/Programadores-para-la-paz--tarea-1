@@ -1,0 +1,9 @@
+Poder construir mis propias herramientas con tecnologías abiertas como Node.js es importante porque:
+
+Tengo autonomía sobre mis datos y procesos, sin depender de empresas con intereses ajenos a mi comunidad.
+Me adapto a mi contexto, construyendo soluciones que realmente responden a mis necesidades locales.
+Reduzco costos, ya que estas tecnologías son gratuitas y accesibles, ideal cuando los recursos son limitados.
+Comparto conocimiento con otras comunidades, convirtiendo lo que aprendo en un bien común.
+Genero confianza, porque el código abierto puede ser revisado por cualquiera.
+
+En pocas palabras: la tecnología abierta me da poder para construir el futuro digital de mi comunidad desde adentro, no desde afuera.
