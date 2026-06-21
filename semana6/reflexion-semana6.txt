@@ -1,0 +1,8 @@
+Es importante porque cuando la información llega de forma estructurada puedo procesarla, almacenarla y analizarla de manera 
+automática y confiable, sin depender de interpretaciones manuales que generan errores o demoras.
+Si un ciudadano envía un reporte con campos claros como fecha, lugar, descripción y tipo de situación, la plataforma puede 
+organizarlo, clasificarlo y dirigirlo a quien corresponde de forma inmediata. 
+En cambio, si la información llega desordenada o en texto libre sin estructura, 
+se pierde tiempo valioso y aumenta el riesgo de que casos importantes queden sin atención.
+En el contexto de una veeduría ciudadana esto es especialmente crítico: un reporte bien estructurado es más fácil de verificar, 
+más difícil de ignorar y más útil como evidencia ante las instituciones.
