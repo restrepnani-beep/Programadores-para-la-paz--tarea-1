@@ -1,0 +1,5 @@
+1. Gestión segura de contraseñas
+2. Control de accesos y permisos
+3. Copias de seguridad periódicas
+4. Monitoreo y trazabilidad
+5. Actualización constante del sistema

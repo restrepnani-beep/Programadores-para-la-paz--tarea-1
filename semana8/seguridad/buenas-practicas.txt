@@ -1,0 +1,3 @@
+echo "1. Usar contraseñas fuertes y únicas">buenas-practicas.txt
+echo "2. Controlar y limitar los accesos">buenas-practicas.txt
+echo "3. Realizar copias de seguridad periódicas" > buenas-practicas.txt

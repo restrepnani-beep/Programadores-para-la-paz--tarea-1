@@ -1,0 +1,12 @@
+La seguridad digital es importante porque una plataforma comunitaria no solo almacena datos, 
+almacena la confianza, la organización y muchas veces la seguridad de personas que reportan 
+situaciones delicadas.
+Si esa plataforma es vulnerada, las consecuencias van más allá de lo técnico: se expone 
+información personal de participantes, se pueden manipular reportes o evidencias, y 
+se destruye la credibilidad de todo el proceso participativo.
+En contextos de veeduría o participación ciudadana esto es especialmente crítico porque 
+quienes usan la plataforma a veces asumen riesgos reales al denunciar. Proteger 
+la plataforma es protegerlos a ellos.
+Por eso la seguridad digital no es un tema opcional ni exclusivamente técnico, es 
+una responsabilidad ética con la comunidad que confía en esa herramienta para organizarse, 
+documentar y actuar.

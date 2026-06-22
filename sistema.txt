@@ -1,0 +1,17 @@
+uname -a
+
+Muestra información completa sobre el sistema operativo y el entorno donde estoy trabajando.
+Incluye el nombre del kernel, la versión, la arquitectura del procesador y el nombre del equipo.
+Es útil para saber exactamente en qué sistema está corriendo mi plataforma y verificar 
+que el entorno es el esperado.
+Ejemplo de salida:
+Linux codespaces-964630 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC 2026 x86_64 x86_64 x86_64 GNU/Linux
+
+whoami
+
+Muestra el nombre del usuario con el que estoy conectado actualmente al sistema. 
+Es útil para verificar con qué nivel de permisos estoy operando, especialmente para saber
+si estoy como usuario normal o como administrador root.
+Ejemplo de salida:
+ whoami
+codespace
