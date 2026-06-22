@@ -1,0 +1,22 @@
+Sistema operativo
+
+Es la base que administra el hardware y permite que todo lo demás funcione.
+ Sin él, no podría ejecutar ningún programa ni acceder a los recursos del servidor.
+
+Node.js
+Es el entorno que me permite ejecutar JavaScript fuera del navegador, directamente 
+en el servidor. Gracias a él puedo construir aplicaciones web como APIs o servidores 
+de forma eficiente.
+
+Aplicación server.js
+Es el archivo principal donde defino cómo funciona mi servidor: qué rutas existen, 
+cómo responde a las peticiones y qué lógica aplica. Es el corazón de la aplicación.
+
+Puerto
+Es la puerta específica por donde el servidor escucha y recibe solicitudes. 
+Por ejemplo, el puerto 3000 indica exactamente dónde está esperando mi aplicación para responder.
+
+Logs
+Son registros que documentan todo lo que ocurre en el servidor: errores, accesos y 
+eventos importantes. Me permiten monitorear el sistema, detectar problemas a tiempo y
+ mantener trazabilidad de la actividad.

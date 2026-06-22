@@ -1,0 +1,11 @@
+Es importante porque una plataforma comunitaria no es solo una herramienta técnica,
+ es el espacio donde las personas se organizan, reportan y confían sus datos. 
+ Si el servidor falla o es vulnerable, todo eso se pone en riesgo.
+Un servidor estable garantiza que la plataforma esté disponible cuando 
+la comunidad la necesita, especialmente en momentos críticos como documentar 
+una situación urgente o coordinar una acción colectiva.
+Un servidor seguro protege la información de quienes participan, muchas veces personas 
+que asumen riesgos reales al denunciar o reportar. Exponerlos por una mala configuración o 
+una falla evitable es una falla ética, no solo técnica.
+En resumen, la estabilidad y la seguridad del servidor son la base invisible sobre la
+ que se sostiene la confianza de toda la comunidad.
