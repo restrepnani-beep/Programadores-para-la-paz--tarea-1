@@ -1,0 +1,14 @@
+Como ciudadano quiero registrar una incidencia con fotos y ubicación para dejar evidencia 
+verificable del caso. (prioridad - Alta)
+
+Como coordinador quiero recibir una alerta en Telegram cuando se registre un nuevo reporte 
+para revisarlo oportunamente.(prioridad - Alta)
+
+Como ciudadano quiero consultar el estado de mi reporte para saber si está siendo atendido.
+(prioridad - Media)
+
+Como miembro del equipo quiero consultar el listado de reportes filtrados por zona o tema 
+para hacer seguimiento organizado.(prioridad - Media)
+
+Como administrador quiero generar estadísticas de los reportes recibidos para presentar 
+resultados a la comunidad y a las autoridades.(prioridad - Baja)

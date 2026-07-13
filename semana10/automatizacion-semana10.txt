@@ -1,0 +1,10 @@
+Evento: nuevo reporte registrado en el sistema.
+
+Acción: enviar mensaje a Telegram al chat/canal del equipo coordinador.
+
+Mensaje: "🚨 Nuevo reporte recibido. Tipo: [categoría]. Zona: [barrio/sector]. 
+Revisar sistema: [enlace al caso]."
+
+Información que no debe enviarse: nombres completos, documentos de identidad, 
+direcciones exactas, teléfonos, correos, claves, tokens de acceso o cualquier dato que
+ permita identificar al ciudadano que reportó.

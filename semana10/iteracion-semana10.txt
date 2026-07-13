@@ -1,0 +1,22 @@
+¿Qué 2 tareas haría primero?
+1. Registrar una incidencia (con fotos y ubicación)
+2. Recibir alerta en Telegram
+
+¿Por qué son las más importantes?
+
+Registrar una incidencia es la base de todo el sistema. Sin esta funcionalidad no hay 
+datos que gestionar, ni reportes que revisar, ni estadísticas que generar. Es el punto 
+de entrada de valor: si esto no funciona, nada más tiene sentido construir.
+
+La alerta en Telegram convierte un reporte pasivo en una acción inmediata. 
+Sin ella, alguien tendría que revisar manualmente si llegaron reportes nuevos, 
+lo que retrasa la respuesta y le resta credibilidad a la veeduría ante la comunidad. 
+Es la diferencia entre "guardar datos" y "responder a tiempo", que es el propósito real
+ de una veeduría ciudadana.
+
+ Para este proyecto, propondría estos criterios mínimos:
+
+✅ Funciona de extremo a extremo: se probó el flujo completo 
+✅ Fue probada con datos reales o realistas: incluyendo casos límite.
+✅ Quedó documentada y en el repositorio: código en Git con commit claro, y si aplica,
+ instrucciones mínimas de cómo configurarlo.
