@@ -1,0 +1,17 @@
+Trigger: un nodo Webhook recibe la notificación cuando se inserta un nuevo registro en la 
+tabla Petición (evento: nueva petición registrada).
+
+Acción: un nodo Telegram envía el mensaje corto y genérico al canal o chat correspondiente: 
+"Nueva petición creada en la plataforma".
+
+Filtro de seguridad: antes de enviar, el flujo solo toma campos no sensibles
+ (como id_peticion o tipo_mecanismo), dejando fuera cualquier dato que identifique o 
+ exponga a la persona.
+
+Información que no debe enviarse por seguridad
+
+Cédulas o números de identificación.
+Teléfonos de contacto.
+Direcciones físicas.
+Comentarios o descripciones sensibles de la petición.
+Cualquier otro dato personal que permita identificar directamente al ciudadano.

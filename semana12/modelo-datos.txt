@@ -1,0 +1,26 @@
+Entidad 1: Usuario
+id_usuario            Identificador único (clave primaria)
+nombreNombre          completo del ciudadano
+correo                Correo electrónico de contacto 
+documento_identidad   Número de cédula o identificación
+ubicacion             Ciudad o zona del usuario
+fecha_registro        Fecha en que se registró en la plataforma
+
+Entidad 2: Petición
+id_peticion            Identificador único (clave primaria)
+id_usuario             Relación con el usuario que la creó (clave foránea)
+tipo_mecanismo         Derecho de petición, queja, reclamo, tutela, etc.
+entidad_destino        Institución a la que se dirige la petición 
+descripcion            Texto generado o ingresado sobre el problema
+fecha_envio            Fecha en que se envió la petición 
+plazo_legal            Fecha límite de respuesta según la ley
+estado                 Pendiente, respondida, vencida
+
+Un Usuario puede tener muchas Peticiones (relación uno a muchos), ya que una persona puede
+ reportar distintos problemas en diferentes momentos, pero cada petición pertenece a un
+  único usuario. Esta relación se representa mediante la clave foránea id_usuario dentro 
+  de la tabla Petición.
+Si se quisiera ampliar el modelo, se podría agregar una tercera entidad Entidad_Responsable
+ (con atributos como nombre, tipo de institución y tiempos de respuesta legal) para no 
+ repetir esa información en cada petición y así mantener los datos más organizados y 
+ consistentes.

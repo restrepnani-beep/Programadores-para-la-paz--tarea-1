@@ -1,0 +1,7 @@
+Paso 1: Identificar el problema o necesidad
+Paso 2: Generar la petición automáticamente
+Paso 3: Enviar y hacer seguimiento
+
+En resumen, el ciudadano solo necesita: elegir el problema → confirmar la petición generada →
+ enviar y monitorear, mientras la herramienta se encarga de toda la parte técnica y legal
+  que normalmente representa la barrera más grande para participar.
