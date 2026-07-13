@@ -1,0 +1,15 @@
+Cuando pienso en una plataforma que promueve la participación ciudadana, entiendo que la 
+base de datos es la columna vertebral: sin ella no podría almacenar causas, reportes o 
+apoyos de forma organizada, ni ofrecer información confiable a la comunidad. 
+La autenticación de usuarios, por su parte, me permite saber quién interactúa con el sistema
+ y qué puede hacer, evitando que cualquier persona modifique datos o suplante a otros 
+ ciudadanos. Esto genera un nivel básico de confianza, porque cada acción queda asociada a 
+ alguien identificable dentro del sistema. Sin embargo, identificar usuarios también implica
+  una responsabilidad: proteger esa información para que no se exponga ni se use de forma 
+  indebida. Por eso la protección de datos no es opcional, sino parte esencial del diseño, 
+  ya que maneja información que puede ser sensible para quien participa. Si alguna de estas 
+  tres piezas fallara, toda la plataforma perdería credibilidad ante la comunidad. Al final, 
+  considero que estos tres elementos trabajan juntos: uno guarda la información, otro 
+  identifica quién actúa, y el último asegura que todo se haga con responsabilidad. 
+  Esa combinación es lo que convierte una simple herramienta digital en un espacio confiable
+   para la participación ciudadana.

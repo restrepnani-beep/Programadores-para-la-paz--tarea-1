@@ -1,0 +1,56 @@
+Entidad: Reporte
+
+Campos principales:
+- id
+- tipo_incidencia
+- descripcion
+- zona
+- estado (recibido, en revisión, en proceso, resuelto)
+- fecha_registro
+- evidencia_url
+
+Propósito:
+Guardar cada incidencia registrada por la comunidad, con su ubicación y estado, para hacer
+ seguimiento a lo largo del tiempo.
+
+
+Entidad: Usuario
+
+Campos principales:
+- id
+- rol (ciudadano, coordinador, administrador)
+- alias
+- fecha_registro
+
+Propósito:
+Identificar quién interactúa con la plataforma y qué permisos tiene, sin exponer datos
+ personales sensibles como nombre completo o documento.
+
+
+Entidad: Seguimiento
+
+Campos principales:
+- id
+- reporte_id
+- estado_anterior
+- estado_nuevo
+- fecha_cambio
+- responsable_id
+
+Propósito:
+Registrar el historial de cambios de cada reporte, permitiendo trazabilidad de quién actualizó
+ el estado y cuándo.
+
+
+Entidad: Notificación
+
+Campos principales:
+- id
+- reporte_id
+- canal (Telegram, correo)
+- fecha_envio
+- estado_envio (enviado, fallido)
+
+Propósito:
+Llevar registro de las alertas enviadas al equipo coordinador para verificar que el flujo 
+de automatización esté funcionando correctamente.

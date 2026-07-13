@@ -1,0 +1,9 @@
+La interfaz sigue una estructura simple de tres partes:
+
+Formulario de creación: título y descripción de la causa, con un botón para publicarla.
+
+Vista de causas disponibles: tarjetas con el resumen de cada causa activa.
+
+Botón "Apoyar" y contador: cada tarjeta muestra cuántos apoyos tiene, y al hacer clic el 
+número aumenta en tiempo real, dando retroalimentación inmediata al ciudadano.
+

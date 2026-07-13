@@ -1,0 +1,9 @@
+Login: es el proceso donde el usuario se identifica con un usuario/correo y contraseña, para 
+que el sistema verifique quién es y qué permisos tiene antes de darle acceso.
+Rutas protegidas: son necesarias porque no todos deben poder hacer todo. Un ciudadano puede 
+consultar un reporte, pero solo un coordinador debería poder cambiar su estado o ver 
+información interna. Esto evita modificaciones 
+indebidas y protege la confianza en la plataforma.
+Información que no debe exponerse: datos personales (nombre, cédula, teléfono, dirección), 
+credenciales o tokens del sistema, evidencia sensible sin filtrar, y ubicaciones exactas 
+cuando puedan poner en riesgo al denunciante.
